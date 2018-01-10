@@ -1,0 +1,52 @@
+December 2017
+
+- Completed development on seat assignment pilot project. Work received accolades from Amtrak leadership, including CEO, Richard Anderson.
+- Began planning incremental development of seat assignment past pilot period of Jan 28 trough end of March.
+- Made architectural recommendation to use vue.js for the tickets.amtrak.com replacement project. Recommendation was accepted and vue.js will be used according to my direction.
+- Convinced Amtrak that they will need at least one consultant for front end work in 2018. Amtrak is open to interview any available Sogeti resources. 
+
+November 2017
+-	Requested and supervised new team members of seat assignment project to keep an aggressive delivery schedule. 
+-	Delivered the entire front end solution for train seat selection for tickets.amtrak.com and Amtrak Mobile app.
+-	Provided front end expert advice when approached by developers working on other projects. Was able to quickly debug these problems to quickly return working on a critical project.
+-	Worked ATO during Veteran¿s day (Amtrak was closed for business) and used that time to meet with Muralidhar Akurati and Hugh Boylan. We discussed the new skills they were acquiring while ATO and I gave them advice to which skills that were desirable at Amtrak in the event they were to be placed there.
+-        Talked with Elicia Wood and Mike Buob to be proactive in pursuing a promotion in 2018. Request was submitted in life with due diligence. 
+
+October 2017
+- Began work on seat assignment and selection IT project for First Class passengers, a feature that was requested by Amtrak's new CEO. Designed a micro service that took existing information in Amtrak's mainframe to build an HTML map of the train car, and provided customers the ability to change their assigned seat.
+- Recognized as lead front end developer for seat assignment project for both Amtrak's mobile application and tickets.amtrak.com
+- Seat assignment project exposed myself and Sogeti to new members of Amtrak's
+business and IT leadership.
+- Developed cutting edge solution by merging Vue.js into the existing ionic project. This saved Amtrak from having to duplicate development for seat assignment in tickets.amtrak.com as the code for the mobile app worked on the traditional browsers as well.
+
+ 
+September 2017
+- Delivered a requested feature of Amtrak's email tickets that had been pending for over a year. This required coding in Java which demonstrated a new skill that Amtrak can expect from my work.
+- Helped Justin Park set up a lunch with Amtrak leadership where we introduced Sogeti's capabilities and relationship with Capgemini. 
+- Continued to collaborate with Justin Park and Mike Buob to sell Sogeti's capabilities to Amtrak.
+- Continued to deliver quality work and provide expertise to Amtrak.com and tickets.amtrak.com projects.
+- Began work on stayoffthetracks.org, a project requested by Amtrak Police to increase railroad safety awareness.
+ 
+
+August 2017
+-	Extended engagement at Amtrak for remainder of FY18, participated in Amtrak¿s IT capex planning for the upcoming year.
+-	Continued to exceed Amtrak¿s expectations by consistently delivering quality work that was recognized by Amtrak Management.
+-	Expanded scope of work at Amtrak to new team involved with AEM d
+
+
+June 2017
+
+- Contributed to HSB's RFP response document by giving a solution overview of the customer portal UI
+- Developed a web client for Sogeti Hackathon project. Participated in team activities such as sprint planning/reviews and daily stand-ups.
+- Gained hands on experience with AWS's DynamoDB, S3, Lambda, Rekognition (sic), and IoT streams. 
+- Demonstrated strong knowledge of the Ionic Framework to Amtrak. This was a key factor in securing the engagement starting in July.
+
+May 2017
+
+-	Participated in daily solutioning and status calls for Hartford Steam Boiler¿s Data Intake and Data Client Integration Platform RFP. Provided UI mockups to present in 6/1 fingerprinting session. Evaluated Episerver CMS platform as a UI tool per HSB¿s indication that they preferred to use it for that purpose. 
+-	Aided Microsoft project as an Angular and CSS SME. Resolved UI bugs that on-site team was unable to fix.
+-	Contributed my knowledge of hybrid mobile application development to TRP¿s RFP for MarketScene app. Evaluated the app's current state and made recommendations by recognizing UI behaviors that deviated from Cordova application development best practices. 
+-	Joined Sogeti Hackathon team to contribute my machine learning and statistical computing knowledge to project.
+-	Utilized resources and time to add proficiencies in Java, Swift, and new AWS services to my skillset. 
+-	Established rapport with my career counselor, Aaron Tyler.   
+-	Attended happy hour on 5/10 and bowling night on 5/25.

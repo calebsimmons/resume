@@ -17,12 +17,39 @@
   },
   "work": [
     {
+      "company": "Sogeti USA, LLC.",
+      "position": "Consultant",
+      "website": "https://us.sogeti.com",
+      "startDate": "05/01/2017",
+      "endDate": "Present",
+      "highlights": [
+        "Expert on front end architecture, cloud infrastructure, and hybrid mobile technologies",
+        "Became a trusted advisor to clients by always delivering above expectations and making recommendations based on the best interests of the client",
+        "Provided advice to consultants nationwide to help Sogeti win bids and maintain delivery excellence"
+      ],
+      "clients": [
+        {
+          "company": "Amtrak",
+          "website": "https://amtrak.com",
+          "startDate": "07/28/2017",
+          "endDate": "Present",
+          "highlights": [
+            "Delivered UI enhancements for tickets.amtrak.com using mastery of several front end technologies",
+            "Developed a completely new solution for train seat selection during trip booking, a feature that did not exist beforehand",
+            "Made recommendations for the front end architecture for the future of Amtrak's web projects",
+            "Supervised enhancements of Amtrak's mobile application built using the Ionic framework",
+            "Identified vue.js as a power tool to build web components in Adobe Experience Manager, and started utilizing it across Amtrak's CMS",
+            "Proactively sought out outstanding defects in production Java server code and fixed them"
+          ]
+        }
+      ]
+    },
+    {
       "company": "Freedmont Mortgage Funding",
       "position": "Web and Mobile Application Engineer",
       "website": "https://freedmont.com",
-      "startDate": "2015-06-15",
-      "endDate": "2017-05-01",
-      "summary": "Freedmont Mortgage funding is a well respected lender throughout Maryland and Eastern Pennsylvania. They used custom web technologies to accelerate their sales process and enhance thier customers' experience.",
+      "startDate": "06/15/2015",
+      "endDate": "05/01/2017",
       "highlights": [
 		    "Gained industry experience by earning a mortgage loan origination license",  
         "Built a proprietary mobile CRM using the Ionic framework",
@@ -36,9 +63,8 @@
       "company": "Quantum Lean, LLC.",
       "position": "ERP Specialist",
       "website": "",
-      "startDate": "2014-07-28",
-      "endDate": "2015-06-14",
-      "summary": "Quantum Lean, LLC. (DBA. Mac Machine Co.) is a manufacturer of complex components for aerospace vehicles and surgical tools. They used a custom Enterprise Resource Planning (ERP) system to schedule production in their 5-axis CNC machines and collect production data.",
+      "startDate": "07/28/2014",
+      "endDate": "06/14/2015",
       "highlights": [
         "Used a genetic algorithm to optimize scheduling efficiency",
         "Generated custom production reports with SQL",
@@ -49,9 +75,8 @@
       "company": "University of Maryland, Baltimore County",
       "position": "Erill Lab - Research Assistant",
       "website": "http://erilllab.umbc.edu/",
-      "startDate": "2012-08-20",
-      "endDate": "2014-05-21",
-      "summary": "The Erill Lab at UMBC is a leading Bioinformatics research group that specializes in the study of gene regulation networks. They use both real world data and abstract mathematical models to conduct their research. They also host a publicly accessible database of transcription factor binding sites, CollectTF.",
+      "startDate": "08/20/2012",
+      "endDate": "05/21/2014",
       "highlights": [
         "Helped maintain the CollectTF web application built with Django",
         "Used Python to construct and optimize computational biology models",
@@ -64,8 +89,8 @@
       "institution": "University of Maryland, Baltimore County",
       "area": "Mathematics",
       "studyType": "Bachelor of Science",
-      "startDate": "2010-08-21",
-      "endDate": "2014-05-21"
+      "startDate": "08/21/2010",
+      "endDate": "05/21/2014"
     }
   ],
   "skills": [
@@ -87,7 +112,7 @@
       ]
     },
     {
-      "name": "Front-End Technologies",
+      "name": "Front-End",
       "level": "",
       "keywords": [
         "Angular.js (v1) & Angular (v2+)",
@@ -106,7 +131,7 @@
       ]
     },
     {
-      "name": "Back-End Technologies",
+      "name": "Back-End",
       "level": "",
       "keywords": [
         "REST APIs",
