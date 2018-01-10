@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Caleb Simmons",
+    "label": "Full Stack Web Application Engineer",
+    "email": "caleb.t.simmons@gmail.com",
+    "phone": "(443) 907-5931",
+    "website": "https://www.linkedin.com/in/calebsimmons/",
+    "summary": " Caleb is a web application engineer living in Baltimore County, Maryland. Throughout his career, Caleb has worked on projects that have improved his employers' customer relationships, business analytics, and overall productivity. Caleb studied Mathematics and Statistics at the University of Maryland, Baltimore County. During his studies, Caleb became knowledgeable of sophisticated Machine Learning techniques that he implements in his applications for automated decision making. Caleb dedicates himself to being a polyglot programmer and life long learner, so that he can use the best possible tools to solve the problem at hand.",
+    "location": {
+      "address": "8005 Ridgetown Drive",
+      "postalCode": "21236",
+      "city": "Nottingham",
+      "countryCode": "US",
+      "region": "Maryland"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Freedmont Mortgage Funding",
+      "position": "Web and Mobile Application Engineer",
+      "website": "https://freedmont.com",
+      "startDate": "2015-06-15",
+      "endDate": "2017-05-01",
+      "summary": "Freedmont Mortgage funding is a well respected lender throughout Maryland and Eastern Pennsylvania. They used custom web technologies to accelerate their sales process and enhance thier customers' experience.",
+      "highlights": [
+		    "Gained industry experience by earning a mortgage loan origination license",  
+        "Built a proprietary mobile CRM using the Ionic framework",
+        "Used Flask and Twillio to develop a mortgage lead distribution system via SMS",
+		    "Hosted Applications on Microsoft Azure and Amazon Web Services",  
+		    "Built applications to update in real time with the Reactivex library",  
+        "Used existing software's APIs to build custom chrome extensions that integrated with legacy systems"
+      ]
+    },
+    {
+      "company": "Quantum Lean, LLC.",
+      "position": "ERP Specialist",
+      "website": "",
+      "startDate": "2014-07-28",
+      "endDate": "2015-06-14",
+      "summary": "Quantum Lean, LLC. (DBA. Mac Machine Co.) is a manufacturer of complex components for aerospace vehicles and surgical tools. They used a custom Enterprise Resource Planning (ERP) system to schedule production in their 5-axis CNC machines and collect production data.",
+      "highlights": [
+        "Used a genetic algorithm to optimize scheduling efficiency",
+        "Generated custom production reports with SQL",
+        "Trained employees on Lean Manufacturing and ERP best practices"
+      ]
+    },
+    {
+      "company": "University of Maryland, Baltimore County",
+      "position": "Erill Lab - Research Assistant",
+      "website": "http://erilllab.umbc.edu/",
+      "startDate": "2012-08-20",
+      "endDate": "2014-05-21",
+      "summary": "The Erill Lab at UMBC is a leading Bioinformatics research group that specializes in the study of gene regulation networks. They use both real world data and abstract mathematical models to conduct their research. They also host a publicly accessible database of transcription factor binding sites, CollectTF.",
+      "highlights": [
+        "Helped maintain the CollectTF web application built with Django",
+        "Used Python to construct and optimize computational biology models",
+        "Presented research at multi-institution hosted conferences"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland, Baltimore County",
+      "area": "Mathematics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2010-08-21",
+      "endDate": "2014-05-21"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Typescript",
+        "Python",
+        "C#",
+        "Java",
+        "SQL",
+        "R & SAS",
+		    "UNIX command line",
+		    "Windows Powershell"  
+      ]
+    },
+    {
+      "name": "Front-End Technologies",
+      "level": "",
+      "keywords": [
+        "Angular.js (v1) & Angular (v2+)",
+        "React",
+        "Vue.js",
+		    "React Native",  
+        "Ionic Mobile Framework",
+        "Phonegap",
+		    "Cordova",		  
+		    "Xamarin",
+        "jQuery",
+        "prototype.js",
+        "sightly",
+        "Sass",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Back-End Technologies",
+      "level": "",
+      "keywords": [
+        "REST APIs",
+		    "Django",  
+        "Flask",
+        "node.js",
+        ".NET",
+        "Java Server Pages (.jsp)",
+        "SQL/Relational Databases",
+        "NoSQL Databases",
+        "Firebase",
+		    "Reactivex",
+		    "Microsoft Azure",
+		    "Amazon Web Services",
+        "npm",
+        "Adobe Experience Manager"
+      ]
+    }
+  ]
+}
