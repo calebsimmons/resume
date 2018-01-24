@@ -36,9 +36,9 @@
           "highlights": [
             "Delivered UI enhancements for tickets.amtrak.com using mastery of several front end technologies",
             "Developed a completely new solution for train seat selection during trip booking, a feature that did not exist beforehand",
-            "Made recommendations for the front end architecture for the future of Amtrak's web projects",
+            "Made recommendations for the front end architecture for future Amtrak web projects",
             "Supervised enhancements of Amtrak's mobile application built using the Ionic framework",
-            "Identified vue.js as a power tool to build web components in Adobe Experience Manager, and started utilizing it across Amtrak's CMS",
+            "Identified vue.js as a powerful tool to build web components in Adobe Experience Manager, and started utilizing it across Amtrak's CMS",
             "Proactively sought out outstanding defects in production Java server code and fixed them"
           ]
         }
@@ -85,6 +85,13 @@
     }
   ],
   "education": [
+    {
+      "institution": "University of Maryland, Baltimore County",
+      "area": "Information Systems",
+      "studyType": "Master of Science",
+      "startDate": "01/29/2018",
+      "endDate": "Expected 2020"
+    },
     {
       "institution": "University of Maryland, Baltimore County",
       "area": "Mathematics",
